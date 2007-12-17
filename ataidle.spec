@@ -10,7 +10,6 @@ Source0: http://www.cran.org.uk/bruce/software/%{name}-%{version}.tar.bz2
 License: BSD
 Group: System/Kernel and hardware 
 Url: http://www.cran.org.uk/bruce/software/ataidle.php
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 
 %description
