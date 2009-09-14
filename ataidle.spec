@@ -1,7 +1,7 @@
 Summary:	A utility to manage ATA drives 
 Name:		ataidle
-Version:	2.3
-Release:	%mkrel 3
+Version:	2.4
+Release:	%mkrel 1
 License:	BSD
 Group:		System/Kernel and hardware 
 Url:		http://www.cran.org.uk/bruce/software/ataidle.php
