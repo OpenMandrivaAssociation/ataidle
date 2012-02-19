@@ -1,6 +1,6 @@
 Summary:	A utility to manage ATA drives 
 Name:		ataidle
-Version:	2.5
+Version:	2.7.1
 Release:	%mkrel 1
 License:	BSD
 Group:		System/Kernel and hardware 
