@@ -4,7 +4,7 @@ Version:	2.7.1
 Release:	2
 License:	BSD
 Group:		System/Kernel and hardware 
-Url:		http://www.cran.org.uk/bruce/software/ataidle.php
+Url:		https://www.cran.org.uk/bruce/software/ataidle.php
 Source0:	http://www.cran.org.uk/bruce/software/%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
