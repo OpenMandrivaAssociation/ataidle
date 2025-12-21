@@ -8,6 +8,7 @@ Url:		https://www.cran.org.uk/bruce/software/ataidle.php
 Source0:	http://www.cran.org.uk/bruce/software/%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
+BuildRequires:	make
 %description
 ATAidle is a utility to set the power management features of ATA hard drives
 in FreeBSD and Linux, including idle and standby timeouts, APM, and
